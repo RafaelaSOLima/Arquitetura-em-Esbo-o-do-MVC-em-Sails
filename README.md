@@ -1,6 +1,6 @@
 # Diagrama Model-View-Controller
 ## Análise e Definição do Escopo
-<b> Principal Objetivo:</b> Essa aplicação web construída com ajuda do framework Sails.js tem como principal propósito estabelecer uma plataforma robusta e eficiente, em que a interação do usuário se dá por meio de uma interface desenvolvida com HTML, CSS e Javascript. Essa interface amigável e responsiva irá proporcionar uma experiência fluida ao usuário, permitindo uma navegação intuitiva e agradável.
+<b> Principal Objetivo:</b> Essa aplicação web construída com ajuda do framework Sails.js e desenvolvida emHTML, CSS e Javascript. A criação da plataforma tem como principal propósito estabelecer uma plataforma robusta e eficiente,  Essa interface amigável e responsiva irá proporcionar uma experiência fluida ao usuário, permitindo uma navegação intuitiva e agradável.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Nos bastidores, essa interface interage de forma dinâmica com uma API backend desenvolvida em Node.js, de arquitetura MVC e framework Sails.js. Essa API, construída sobre uma arquitetura moderna e escalável, proporciona uma comunicação eficiente entre o front-end e o banco de dados PostgreSQL. Utilizando o poderoso sistema de ORM (Object-Relational Mapping) do Sails.js, a aplicação é capaz de gerenciar de forma eficaz e segura as operações de acesso e manipulação dos dados armazenados no banco.
 
@@ -32,7 +32,7 @@ Catálogo de ONGs cadastradas, visualização de informações detalhadas sobre 
  <sub>Figura 1: Diagrama da Plataforma</sub><br><br>
 <img src = "assets/MVC Plataforma.drawio.png " alt="image" width="80%" height="auto"></div>
 
-&nbsp;&nbsp;&nbsp;&nbsp; Uma vez dentro da plataforma, o usuário terá a possibilidade de fazer diversos tipos de interação com o banco de dados, desde postagens até visualizações do feed e busca por ONGs, projetos parecidos e pessoas de interesses semelhantes.
+&nbsp;&nbsp;&nbsp;&nbsp; Uma vez dentro da plataforma, o usuário terá a possibilidade de fazer diversos tipos de interação com o banco de dados, desde postagens até visualizações do feed e busca por ONGs, projetos parecidos e pessoas de interesses semelhantes. asdasdasd 
 
 
 
